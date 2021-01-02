@@ -2,4 +2,4 @@
 Repo for dice class batch 05
 
 
-v0.0.2
+v0.0.3
