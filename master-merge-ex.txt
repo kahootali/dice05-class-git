@@ -1,0 +1,1 @@
+This file is in master to show 3 way merge
